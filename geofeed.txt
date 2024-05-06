@@ -8,3 +8,4 @@
 #ip_prefix,alpha2code,region,city,postal_code
 38.137.212.0/24,CO,CO-CUN,Bogota,110121
 207.230.8.0/22,CO,CO-CUN,Bogota,110121
+38.191.192.0/19,CO-CUN,Bogota,110121
