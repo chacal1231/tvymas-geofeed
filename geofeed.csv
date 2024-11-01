@@ -8,7 +8,6 @@
 #ip_prefix,alpha2code,region,city,postal_code
 38.137.212.0/24,CO,CO-CUN,Bogota,110121
 207.230.8.0/22,CO,CO-CUN,Bogota,110121
-38.191.192.0/19,CO,CO-CUN,Bogota,110121
 38.191.192.0/21,CO,CO-VAC,Cali,760000
 38.191.200.0/21,CO,CO-MET,Villavicencio,500001
 38.191.220.0/22,CO,CO-NSA,Cucuta,540001
