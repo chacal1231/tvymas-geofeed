@@ -1,27 +1,45 @@
 # TVYMAS Geofeed
-# This feed is encoded in RFC 8805 format.
-# Publication date: 2024-11-08
-#
-# This data feed provides approximate geo locations for a subset of
-# TVYMAS IP space, and the data included in this feed may be used only
-# for improving the accuracy of Geo:IP lookups
+# Organization: TVYMAS SAS
+# Contact: noc@tvymas.co
+# Last-Updated: 2025-06-01
+# Format: RFC 8805
+# Website: https://www.tvymas.co
+# This file provides approximate geolocation data for IP prefixes owned and operated by TVYMAS SAS.
 #ip_prefix,alpha2code,region,city,postal_code
-38.137.212.0/24,CO,CO-CUN,Bogota,110121
-207.230.8.0/22,CO,CO-CUN,Bogota,110121
-38.191.192.0/21,CO,CO-VAC,Cali,760000
-38.191.200.0/21,CO,CO-MET,Villavicencio,500001
-38.191.220.0/22,CO,CO-NSA,Cucuta,540001
+38.191.192.0/24,CO,CO-CAU,Popayan,190001
+38.191.192.0/24,CO,CO-CAU,Popayan,190001
+38.191.194.0/24,CO,CO-VAC,Cali,760000
+38.191.195.0/24,CO,CO-VAC,Cali,760000
+38.191.196.0/24,CO,CO-CUN,Bogota,110121
+38.191.197.0/24,CO,CO-VAC,Cali,760000
+38.191.198.0/24,CO,CO-VAC,Cali,760000
+38.191.199.0/24,CO,CO-VAC,Cali,760000
+38.191.200.0/24,CO,CO-MET,Villavicencio,500001
+38.191.201.0/24,CO,CO-MET,Villavicencio,500001
+38.191.202.0/24,CO,CO-MET,Villavicencio,500001
+38.191.203.0/24,CO,CO-MET,Villavicencio,500001
+38.191.204.0/24,CO,CO-MET,Villavicencio,500001
+38.191.205.0/24,CO,CO-MET,Villavicencio,500001
+38.191.206.0/24,CO,CO-MET,Villavicencio,500001
+38.191.207.0/24,CO,CO-MET,Villavicencio,500001
 38.191.208.0/24,CO,CO-SAN,Bucaramanga,680001
+38.191.209.0/24,CO,CO-CUN,Bogota,110121
 38.191.210.0/25,CO,CO-ARA,Arauca,810001
 38.191.210.128/25,CO,CO-ARA,Saravena,815010
 38.191.211.0/24,CO,CO-ARA,Saravena,815010
-38.191.219.0/24,CO,CO-VAC,Cali,760000
-38.191.211.240/29,VE,VE-A,Caracas,1020
-38.191.211.248/29,VE,VE-A,Caracas,1020
-38.191.196.0/24,CO,CO-CUN,Bogota,110121
-38.191.199.0/24,CO,CO-CUN,Bogota,110121
+38.191.212.0/24,CO,CO-CUN,Bogota,110121
+38.191.213.0/24,CO,CO-CUN,Bogota,110121
 38.191.214.0/24,CO,CO-MET,Villavicencio,500001
+38.191.215.0/24,CO,CO-VAC,Cali,760000
+38.191.216.0/24,CO,CO-CUN,Bogota,110121
+38.191.217.0/24,CO,CO-CUN,Bogota,110121
+38.191.218.0/24,CO,CO-BOY,Ramiriqui,153401
+38.191.219.0/24,CO,CO-VAC,Cali,760000
+38.191.220.0/24,CO,CO-NSA,Cucuta,540001
+38.191.221.0/24,CO,CO-NSA,Cucuta,540001
+38.191.222.0/24,CO,CO-NSA,Cucuta,540001
+38.191.223.0/24,CO,CO-NSA,Cucuta,540001
+207.230.8.0/24,CO,CO-CUN,Bogota,110121
+207.230.9.0/24,CO,CO-CUN,Bogota,110121
 207.230.10.0/24,CO,CO-CUN,Bogota,110121
 207.230.11.0/24,CO,CO-CUN,Bogota,110121
-38.191.218.0/24,CO,CO-BOY,Ramiriqui,153401
-38.191.215.0/24,CO,CO-VAC,Cali,760000
