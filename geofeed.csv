@@ -7,7 +7,7 @@
 # This file provides approximate geolocation data for IP prefixes owned and operated by TVYMAS SAS.
 #ip_prefix,alpha2code,region,city,postal_code
 38.191.192.0/24,CO,CO-CAU,Popayan,190001
-38.191.192.0/24,CO,CO-CAU,Popayan,190001
+38.191.193.0/24,CO,CO-CAU,Popayan,190001
 38.191.194.0/24,CO,CO-VAC,Cali,760000
 38.191.195.0/24,CO,CO-VAC,Cali,760000
 38.191.196.0/24,CO,CO-CUN,Bogota,110121
